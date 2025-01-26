@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Олег\\RiderProjects\\OzonRoute\\Task5\\Task5.csproj",
+      "projectUniqueName": "C:\\OzoneRoute_01_2025\\OzonRoute\\Task5\\Task5.csproj",
       "projectName": "Task5",
-      "projectPath": "C:\\Users\\Олег\\RiderProjects\\OzonRoute\\Task5\\Task5.csproj",
+      "projectPath": "C:\\OzoneRoute_01_2025\\OzonRoute\\Task5\\Task5.csproj",
       "packagesPath": "C:\\Users\\Олег\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Олег\\RiderProjects\\OzonRoute\\Task5\\obj\\",
+      "outputPath": "C:\\OzoneRoute_01_2025\\OzonRoute\\Task5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

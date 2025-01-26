@@ -1,0 +1,8 @@
+
+~csharpsquid:S3776"ZRefactor this top-level file to reduce its Cognitive Complexity from 53 to the 15 allowed.(”¯Œ¢8·£•Ê2
+Fcsharpsquid:S1116˜"Remove this empty statement.(ôŸìúÿÿÿÿ8·£•Ê2
+Scsharpsquid:S1066"/Merge this if statement with the enclosing one.(Ï­Ïî8·£•Ê2
+Scsharpsquid:S1066""/Merge this if statement with the enclosing one.(©ÊúÅ8‘·£•Ê2
+@csharpsquid:S6966"Await ReadLineAsync instead.(©İ°¼8‘·£•Ê2
+?csharpsquid:S6966"Await ReadLineAsync instead.(¸·Öx8‘·£•Ê2
+@csharpsquid:S6966"Await ReadLineAsync instead.(‘Ñ¾È8‘·£•Ê2
